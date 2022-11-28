@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="header-container">
     <img src="@/img/logo-small.svg" alt="">
   </div>
 </template>
@@ -11,5 +11,12 @@ name: 'HeaderPage'
 </script>
 
 <style lang="scss" scoped>
+.header-container {
+  background-color: #2E3A46;
+  padding: .5rem;
+}
 
+img {
+  width: 30px;
+}
 </style>

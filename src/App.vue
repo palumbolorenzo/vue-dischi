@@ -1,6 +1,6 @@
 <template>
   <div class="bootstrap">
-    <button class="btn btn-primary"></button>
+    <!-- <button class="btn btn-primary"></button> -->
     <HeaderPage />
     <MainPage />
   </div>
