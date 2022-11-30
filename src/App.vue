@@ -20,6 +20,7 @@ export default {
     return {
       urlApi: 'https://flynn.boolean.careers/exercises/api/array/music',
       movies: null,
+      discs: null
     };
   },
   created() {
